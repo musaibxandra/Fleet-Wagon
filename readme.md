@@ -8,7 +8,7 @@ Python | Jupyter notebook | Pandas | Matplotlib | Seaborn
 
 Fleet Wagon, a car leasing company, providing cost-effective vehicle solutions to contractors and businesses. Recently a surge in demand has outrun the availability of vehicles from traditional suppliers. Fleet Wagon must now explore alternative procurement options so the company has identified the automotive auction industry as a source for acquiring vehicles.
 
-Since the auction market is very competitive, Fleet Wagon has to make they get the best deals while also considering factors such as vehicle condition, price, and auction locations, in order to make all this happen Fleet Wagon has turned to a data analyst to identify optimal procurement strategies.
+Since the auction market is very competitive, To get the best deals while also considering factors such as vehicle condition, price, and auction locations, in order to make all this happen Fleet Wagon has turned to a data analyst to identify optimal procurement strategies.
 
 # Motive
 
